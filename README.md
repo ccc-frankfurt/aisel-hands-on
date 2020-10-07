@@ -14,5 +14,5 @@ It contains basics on probability theory, probabilistic model-building, robust m
 
 ### Pedestrian Tracker
 based on the PHD Thesis of Michael Greiffenhagen: "Engineering, Statistical Modeling and Performance Characterization of a Real-Time Dual Camera Surveillance System", Erlangen, 2001
-1. [Illumination invariant measure](notebooks/PersonTracker-IlluminInvMeasure.ipynb)
+1. [Illumination invariant measure](notebooks/PedestrianDetector-IlluminInvMeasure.ipynb)
 2. [Background model in stationary environments and color based change detection](notebooks/PersonTracker-BackgroundModel.ipynb)

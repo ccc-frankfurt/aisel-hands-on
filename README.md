@@ -6,9 +6,10 @@
 
 
 ## Goal
-This material supports teaching efforts at the master level for future AI System Engineers. 
-It contains basics on probability theory, probabilistic model-building, robust modules, uncertainty propagation, automatic differentation, introduction to deep probabilistic frameworks, privacy measures and basics for affective AI.
-<p>A pedestrian tracker example is used to demonstrate the full workflow to design and implement robust, modular vision based AI Systems with quantitiave performance measures.</p>
+This material supports teaching efforts at the master level for future AI System Engineers and complements existing courses on machine learning and system and software engineering.
+It covers basics on probability theory, probabilistic model-building, simulation, robust modules, uncertainty propagation, automatic differentation, deep probabilistic frameworks as well as privacy measures and basics for affective AI. 
+
+<p>A pedestrian tracker example is used to demonstrates the workflow for robust change detection and quantitiave model-based performance measures.</p>
 
 ## Contents
 

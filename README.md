@@ -31,9 +31,9 @@ It covers basics on probability theory, probabilistic model-building, simulation
 ####	Aleatoric and epistemic uncertainty in statistical machine learning
 ####	A comparison of uncertainty on estimates vs uncertainty from data
 
-###	Automatic differentiation (JAX+ Autograd)
+###	Automatic differentiation
 
-###	Modern Probabilistic Programming Frameworks: Julia, Pyro
+###	Probabilistic Programming Frameworks
 
 ###	Privacy By Design
 ####	General privacy measures  

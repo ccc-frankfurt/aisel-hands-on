@@ -12,8 +12,42 @@ It covers basics on probability theory, probabilistic model-building, simulation
 <p>A pedestrian tracker example is used to demonstrates the workflow for robust change detection and quantitiave model-based performance measures.</p>
 
 ## Contents
+### Basics of probability theory and random variables
+#### Experiments, Sample Spaces, and Events
+#### Probability Axioms 
+#### Computing Probabilities 
+#### Conditional Probability
+#### Rule of Bayes 
+#### Discrete Random Variables 
+#### Continuous Random Variables  
+#### Expectiation Values
+#### Common Discrete Distributions
+#### Maximum likelihood estimation
 
-### Pedestrian Tracker
+### Uncertainty Propagation 
+
+####	Covariance propagation
+####	Statistical and systematic uncertainty estimates in probability theory
+####	Aleatoric and epistemic uncertainty in statistical machine learning
+####	A comparison of uncertainty on estimates vs uncertainty from data
+
+###	Automatic differentiation (JAX+ Autograd)
+
+###	Modern Probabilistic Programming Frameworks: Julia, Pyro
+
+###	Privacy By Design
+####	General privacy measures  
+####	Privacy measures in statistical machine learning
+
+###	Affective AI / Human-AI interaction:
+####	World modelling and Simulation in Human-AI Systems
+####	Emotion estimation techniques
+
+###	Sensor Modelling
+####	Camera noise calibration 
+####	Color calibration 
+
+### Robust estimates example - Pedestrian Tracker
 based on the PHD Thesis of Michael Greiffenhagen: "Engineering, Statistical Modeling and Performance Characterization of a Real-Time Dual Camera Surveillance System", Erlangen, 2001
 1. [Illumination invariant measure](notebooks/PedestrianDetector-IlluminInvMeasure.ipynb)
 2. [Background model in stationary environments and color based change detection](notebooks/PersonTracker-BackgroundModel.ipynb)

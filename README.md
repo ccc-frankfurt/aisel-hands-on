@@ -11,7 +11,9 @@ It covers basics on probability theory, probabilistic model-building, simulation
 
 
 ## Contents
+<!---
 ### Basics of probability theory and random variables
+
 #### Experiments, Sample Spaces, and Events
 #### Probability Axioms 
 #### Computing Probabilities 
@@ -33,10 +35,10 @@ It covers basics on probability theory, probabilistic model-building, simulation
 ###	Automatic differentiation
 
 ###	Probabilistic Programming Frameworks
-
+--->
 ###	Privacy By Design
-####	General privacy measures  
-####	Privacy measures in statistical machine learning
+#### [General privacy measures](notebooks/privacy_metrics.ipynb)
+#### [Differential Privacy](notebooks/diffpriv.ipynb)
 
 ###	Affective AI / Human-AI interaction:
 ####	World modelling and Simulation in Human-AI Systems
@@ -51,3 +53,5 @@ A pedestrian tracker example is used to demonstrates the workflow for robust cha
 Based on the PHD Thesis of Michael Greiffenhagen: "Engineering, Statistical Modeling and Performance Characterization of a Real-Time Dual Camera Surveillance System", Erlangen, 2001
 1. [Illumination invariant measure](notebooks/PedestrianDetector-IlluminInvMeasure.ipynb)
 2. [Background model in stationary environments and color based change detection](notebooks/PersonTracker-BackgroundModel.ipynb)
+3. [Indexing function to prepare Hypothesis Testing](notebooks/PedestrianDetector-IndexingHypoGen.ipynb)
+4. [Feature for Pedestrian Detection](notebooks/PedestrianDetector-FeatureGenPedEstimation.ipynb)

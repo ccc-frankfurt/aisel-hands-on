@@ -36,17 +36,18 @@ It covers basics on probability theory, probabilistic model-building, simulation
 
 ###	Probabilistic Programming Frameworks
 --->
+
 ###	Privacy By Design
 #### [General privacy measures](notebooks/privacy_metrics.ipynb)
 #### [Differential Privacy](notebooks/diffpriv.ipynb)
-
+<!---
 ###	Affective AI / Human-AI interaction:
 ####	World modelling and Simulation in Human-AI Systems
 ####	Emotion estimation techniques
-
+--->
 ###	Sensor Modelling
-####	Camera noise calibration 
-####	Color calibration 
+####	[Vision: camera noise model](notebooks/NoiseModel.ipynb) 
+####	[Vision: camera calibration](notebooks/ImageCalibration.ipynb) 
 
 ### Robust estimates example - Pedestrian Tracker
 A pedestrian tracker example is used to demonstrates the workflow for robust change detection and quantitiave model-based performance measures.

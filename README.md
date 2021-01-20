@@ -53,6 +53,6 @@ It covers basics on probability theory, probabilistic model-building, simulation
 A pedestrian tracker example is used to demonstrates the workflow for robust change detection and quantitiave model-based performance measures.
 Based on the PHD Thesis of Michael Greiffenhagen: "Engineering, Statistical Modeling and Performance Characterization of a Real-Time Dual Camera Surveillance System", Erlangen, 2001
 1. [Illumination invariant measure](notebooks/PedestrianDetector-IlluminInvMeasure.ipynb)
-2. [Background model in stationary environments and color based change detection](notebooks/PersonTracker-BackgroundModel.ipynb)
+2. [Background model in stationary environments and color based change detection](notebooks/PedestrianDetector-BackgroundModel.ipynb)
 3. [Indexing function to prepare Hypothesis Testing](notebooks/PedestrianDetector-IndexingHypoGen.ipynb)
 4. [Feature for Pedestrian Detection](notebooks/PedestrianDetector-FeatureGenPedEstimation.ipynb)

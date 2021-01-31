@@ -40,6 +40,7 @@ It covers basics on probability theory, probabilistic model-building, simulation
 ###	Privacy By Design
 #### [General privacy measures](notebooks/privacy_metrics.ipynb)
 #### [Differential privacy](notebooks/diffpriv.ipynb)
+#### [Applying privacy measure - a simple example](notebooks/weight_height_example.ipynb)
 <!---
 ###	Affective AI / Human-AI interaction:
 ####	World modelling and Simulation in Human-AI Systems

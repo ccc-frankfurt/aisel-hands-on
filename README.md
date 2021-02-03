@@ -42,7 +42,7 @@ It covers basics on probability theory, probabilistic model-building, simulation
 --->
 ###	Sensor Modelling
 ####	[Vision: Camera noise model](notebooks/NoiseModel.ipynb) 
-####	[Vision: Statistical calibration of CCD imaging process](notebooks/ImageCalibration.ipynb) 
+####	[Vision: Statistical calibration of imaging process](notebooks/ImageCalibration.ipynb) 
 ####	[Vision: Illumination correction by rank order consistency](notebooks/IlluminationCorrection.ipynb)
 
 ###	Privacy By Design

@@ -35,20 +35,20 @@ It covers basics on probability theory, probabilistic model-building, simulation
 ###	Automatic differentiation
 
 ###	Probabilistic Programming Frameworks
---->
 
-###	Privacy By Design
-#### [General privacy measures](notebooks/privacy_metrics.ipynb)
-#### [Differential privacy](notebooks/diffpriv.ipynb)
-#### [Applying privacy measure - a simple example](notebooks/weight_height_example.ipynb)
-<!---
 ###	Affective AI / Human-AI interaction:
 ####	World modelling and Simulation in Human-AI Systems
 ####	Emotion estimation techniques
 --->
 ###	Sensor Modelling
 ####	[Vision: Camera noise model](notebooks/NoiseModel.ipynb) 
-####	[Vision: Statistical calibration of CCD imaging process](notebooks/ImageCalibration.ipynb) 
+####	[Vision: Statistical calibration of imaging process](notebooks/ImageCalibration.ipynb) 
+####	[Vision: Illumination correction by rank order consistency](notebooks/IlluminationCorrection.ipynb)
+
+###	Privacy By Design
+#### [General privacy measures](notebooks/privacy_metrics.ipynb)
+#### [Differential privacy](notebooks/diffpriv.ipynb)
+#### [Applying privacy measure - a simple example](notebooks/weight_height_example.ipynb)
 
 ### Robust estimates  - Pedestrian Tracker
  A pedestrian tracker example is used to demonstrates the workflow for robust change detection and quantitiave model-based performance measures.  Especially the expected performance of a system and the assumptions that are made are highlighted.   <div style="float: right;"><img src="pics/AIMatrixPedTracker.png" width="200" ></div> .

@@ -49,6 +49,7 @@ It covers basics on probability theory, probabilistic model-building, simulation
 ###	Sensor Modelling
 ####	[Vision: Camera noise model](notebooks/NoiseModel.ipynb) 
 ####	[Vision: Statistical calibration of CCD imaging process](notebooks/ImageCalibration.ipynb) 
+####	[Vision: Illumination correction by rank order consistency](notebooks/IlluminationCorrection.ipynb)
 
 ### Robust estimates  - Pedestrian Tracker
  A pedestrian tracker example is used to demonstrates the workflow for robust change detection and quantitiave model-based performance measures.  Especially the expected performance of a system and the assumptions that are made are highlighted.   <div style="float: right;"><img src="pics/AIMatrixPedTracker.png" width="200" ></div> .

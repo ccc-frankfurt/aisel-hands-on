@@ -50,8 +50,8 @@ It covers basics on probability theory, probabilistic model-building, simulation
 #### [Differential privacy](notebooks/diffpriv.ipynb)
 #### [Applying privacy measure - a simple example](notebooks/weight_height_example.ipynb)
 
-### Robust estimates  - Pedestrian Tracker
- A pedestrian tracker example is used to demonstrates the workflow for robust change detection and quantitiave model-based performance measures.  Especially the expected performance of a system and the assumptions that are made are highlighted.   <div style="float: right;"><img src="pics/AIMatrixPedTracker.png" width="200" ></div> .
+### Robust estimates  - Pedestrian Detection
+ A pedestrian detection example is used to demonstrates the workflow for robust change detection and quantitiave model-based performance measures.  Especially the expected performance of a system and the assumptions that are made are highlighted.   <div style="float: right;"><img src="pics/AIMatrixPedTracker.png" width="200" ></div> .
 
 1. [Intro & Illumination invariant measure](notebooks/PedestrianDetector-IlluminInvMeasure.ipynb)
 2. [Background model in stationary environments and color based change detection](notebooks/PedestrianDetector-BackgroundModel.ipynb)
